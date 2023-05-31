@@ -1,0 +1,48 @@
+{
+  "code": "",
+  "message": "",
+  "httpCode": 500,
+  "status": true,
+  "data": [
+    {
+      "assignmentTime": "2023/05/23 - 12:15 p.m.",
+      "deductibleValue": "",
+      "direction": "KR 102 BIS # 25 D - 03 PI 3",
+      "idAtencion": 8744710,
+      "idClaveSiemComicator": "Emergencias",
+      "posX": -74.13233821,
+      "posY": 4.68664618,
+      "stateId": 1
+    },
+    {
+      "assignmentTime": "",
+      "deductibleValue": "",
+      "direction": "KR 102 BIS # 25 D - 03 PI 3",
+      "idAtencion": 8744680,
+      "idClaveSiemComicator": "Consulta Domiciliaria",
+      "posX": -74.13233821,
+      "posY": 4.68664618,
+      "stateId": 6
+    },
+    {
+      "assignmentTime": "",
+      "deductibleValue": "",
+      "direction": "KR 102 BIS # 25 D - 03 PI 3",
+      "idAtencion": 8744684,
+      "idClaveSiemComicator": "Consulta Domiciliaria",
+      "posX": -74.13233821,
+      "posY": 4.68664618,
+      "stateId": 6
+    },
+    {
+      "assignmentTime": "",
+      "deductibleValue": "",
+      "direction": "KR 102 BIS # 25 D - 03 PI 3",
+      "idAtencion": 8744686,
+      "idClaveSiemComicator": "Consulta Domiciliaria",
+      "posX": -74.13233821,
+      "posY": 4.68664618,
+      "stateId": 6
+    }
+  ]
+}
